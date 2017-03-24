@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Cordova-hooks-sandbox",
+  "ProjectGuid": "d431218e-f18b-4886-a4a6-7d760efb040c",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Cordovahookssandbox",
+  "DisplayName": "Cordova-hooks-sandbox",
+  "Author": "",
+  "Description": "Cordova-hooks-sandbox",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{34819d20-1d4e-420f-a842-1cf343c27707}",
+  "WP8ProductID": "{677a8096-1555-454d-8718-af341da6ea26}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Cordovahookssandbox",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
